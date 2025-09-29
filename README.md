@@ -33,7 +33,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 
 ---
 
-### Proyecto 2: [DM-PROJECT](https://github.com/Jaesparz/DM-PROJECT)2)
+### Proyecto 2: [DM-PROJECT](https://github.com/Jaesparz/DM-PROJECT))
 
 - **Descripción:** Proyecto que usa el algoritmo matematico del camino mas corto (dijkstra) con ayuda de un mapa interactivo.
 - **Tecnologías:** `Java'
