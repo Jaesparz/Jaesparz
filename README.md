@@ -25,40 +25,60 @@ Aquí encontrarás **información sobre mí, mis proyectos, tecnologías que uti
 
 ## 📂 Proyectos  
 
-### 🔹 Proyecto 1: [Crypto-Exchange System](https://github.com/Jaesparz/BootcampProjectJE)  
-📝 **Descripción:**  
-Un simulador de una aplicación de intercambio de criptomonedas que replica la lógica de operaciones básicas.  
 
-🛠 **Tecnologías utilizadas:**  
-- `Java` → Uso de librerías estándar como **util** y **math** para cálculos numéricos.  
+### 📌 Proyecto 1: [Crypto-Exchange System](https://github.com/Jaesparz/BootcampProjectJE)  
 
-📌 **Estado:** ✅ Completado  
+**Descripción:**  
+Aplicación que simula un sistema real de intercambio de criptomonedas, donde los usuarios pueden comprar y vender activos digitales con personas "reales" dentro de la simulación.  
 
----
+Incluye:  
+- Cartera digital interactiva para gestionar los activos.  
+- Sistema de oferta y demanda que regula las transacciones.  
+- Módulo de espera en compras/ventas, imitando un mercado real.  
+- Login con autenticación de usuarios.  
+- Historial de operaciones con registro de compras y ventas.  
 
-### 🔹 Proyecto 2: [Discrete Paths](https://github.com/Jaesparz/DM-PROJECT)  
-📝 **Descripción:**  
-Implementación del algoritmo matemático del **camino más corto (Dijkstra)** con integración de un **mapa interactivo**. Incluye además un prototipo de videojuego llamado *“Juego del Tesoro”*.  
+**Tecnologías utilizadas:**  
+- `Java` → Uso de librerías estándar como **util** y **math**.  
 
-🛠 **Tecnologías utilizadas:**  
-- `Java` → Desarrollo principal.  
-- **API REST OSRM** → Para obtener rutas óptimas en formato **GeoJSON**.  
-- Librerías `os` y `graphics` → Implementación gráfica y dinámica del prototipo de videojuego.  
+**Estado:** ✅ Completado  
 
-📌 **Estado:** ✅ Completado  
 
 ---
 
-### 🔹 Proyecto 3: [CRUD-PEDIDOS](https://github.com/Jaesparz/SBD-Project-CRUD-PEDIDOS)  
-📝 **Descripción:**  
-Aplicación para la **gestión de pedidos** con operaciones CRUD (Crear, Leer, Actualizar, Borrar) conectada a una base de datos.  
+### 📌 Proyecto 2: [Discrete Paths](https://github.com/Jaesparz/DM-PROJECT)  
 
-🛠 **Tecnologías utilizadas:**  
-- `Java` → Uso de la librería **Swing** para la interfaz gráfica (botones, cuadros, ventanas).  
-- `Java SQL (JDBC)` → Conexión y manejo de consultas SQL desde el código Java.  
-- `MySQL` → Sistema de gestión de base de datos para almacenar y administrar los pedidos.  
+**Descripción:**  
+Aplicación diseñada para aplicar el algoritmo de Dijkstra en un mapa interactivo.  
 
-📌 **Estado:** ✅ Completado  
+Modos de uso:  
+- Simulación en mapa real: Con la API de OSRM y un mapa de Guayaquil (ESPOL), el usuario puede seleccionar inicio y destino para calcular el camino más corto. Incluye un asistente virtual llamado *Polito*.  
+- Modo de juego: Un pirata debe encontrar el camino más corto en un grafo para obtener el tesoro antes de que lo roben.  
+
+**Tecnologías utilizadas:**  
+- `Java` → Implementación principal del algoritmo y lógica.  
+- **API REST OSRM** → Cálculo de rutas óptimas en formato **GeoJSON**.  
+- Librerías `os` y `graphics` → Integración gráfica del mapa y del juego.  
+
+**Estado:** ✅ Completado  
+
+
+---
+
+### 📌 Proyecto 3: [CRUD-PEDIDOS](https://github.com/Jaesparz/SBD-Project-CRUD-PEDIDOS)  
+
+**Descripción:**  
+Sistema CRUD creado para una tienda de confección, con el fin de organizar:  
+- Pedidos entrantes y terminados.  
+- Inventario de materiales de confección.  
+
+**Tecnologías utilizadas:**  
+- `Java` → Uso de **Swing** para la interfaz gráfica.  
+- `Java SQL (JDBC)` → Conexión y manejo de consultas desde el código.  
+- `MySQL` → Almacenamiento y gestión de pedidos e inventario.  
+
+**Estado:** ✅ Completado  
+
 
 ---
 
@@ -66,21 +86,21 @@ Aplicación para la **gestión de pedidos** con operaciones CRUD (Crear, Leer, A
 
 | Lenguaje / Herramienta | Nivel de experiencia | Usos principales |
 |-------------------------|----------------------|------------------|
-| 🌐 HTML / CSS           | 🟢 Principiante | Estructura y diseño básico de páginas web |
-| ⚡ JavaScript           | 🟢 Principiante | Interactividad básica en aplicaciones web |
-| 🐍 Python              | 🟡 Intermedio | Automatización de tareas y análisis de datos |
-| 🔗 Git / GitHub        | 🟡 Intermedio | Control de versiones y repositorios |
-| 🗄️ MySQL               | 🟡 Intermedio | Gestión de bases de datos relacionales |
-| ☕ Java                | 🔴 Avanzado | Desarrollo de aplicaciones completas (consola, GUI, conexión a BD con JDBC) |
+| 🌐 HTML / CSS           | Principiante | Estructura y diseño básico de páginas web |
+| ⚡ JavaScript           | Principiante | Interactividad básica en aplicaciones web |
+| 🐍 Python               | Intermedio | Automatización de tareas y análisis de datos |
+| 🔗 Git / GitHub         | Intermedio | Control de versiones y repositorios |
+| 🗄️ MySQL                | Intermedio | Gestión de bases de datos relacionales |
+| ☕ Java                 | Avanzado | Desarrollo de aplicaciones completas (consola, GUI, conexión a BD con JDBC) |
 
 ---
 
 ## 🎯 Intereses  
 
-📌 Desarrollo web  
-📌 Automatización con Python  
-📌 Ciencia de datos  
-📌 Videojuegos y tecnología interactiva  
+- 🌐 Desarrollo web  
+- ⚙️ Automatización con Python  
+- 📊 Ciencia de datos  
+- 🎮 Videojuegos y tecnología interactiva  
 
 ---
 
@@ -90,4 +110,6 @@ Aplicación para la **gestión de pedidos** con operaciones CRUD (Crear, Leer, A
 - 📧 Correo institucional: *jaesparz@espol.edu.ec*  
 
 ---
+
+
 
