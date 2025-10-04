@@ -1,87 +1,93 @@
+# 🌐 Mi sitio personal  
 
-# Mi sitio personal
-
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos, tecnologías que utilizo y mis intereses.
-
----
-
-## Contenido
-
-- [Información personal](#información-personal)
-- [Proyectos](#proyectos)
-- [Tecnologías](#tecnologías)
-- [Intereses](#intereses)
-- [Contacto](#contacto)
+¡Bienvenido a mi espacio personal!  
+Aquí encontrarás **información sobre mí, mis proyectos, tecnologías que utilizo y mis intereses.**
 
 ---
 
-## Información personal
 
-- **Nombre:** [Josue Alexander Esparza Villacís]
-- **Ocupación:** [Estudiante Universitario]
-
----
-
-## Proyectos
-
-### Proyecto 1: [BootcampProjectJE](https://github.com/Jaesparz/BootcampProjectJE))
-
-- **Descripción:** Un simulador de una app de intercambio de criptomonedas.
-- **Tecnologías:** `Java'
-- **Estado:** Completado
-
+## 📑 Contenido  
+- [👤 Información personal](#-información-personal)  
+- [📂 Proyectos](#-proyectos)  
+- [🛠 Tecnologías](#-tecnologías)  
+- [🎯 Intereses](#-intereses)  
+- [📬 Contacto](#-contacto)  
 
 ---
 
-### Proyecto 2: [DM-PROJECT](https://github.com/Jaesparz/DM-PROJECT))
+## 👤 Información personal  
 
-- **Descripción:** Proyecto que usa el algoritmo matematico del camino mas corto (dijkstra) con ayuda de un mapa interactivo.
-- **Tecnologías:** `Java'
-- **Estado:** Completado
-
-
----
-
-### Proyecto 3: [SBD-Project-CRUD-PEDIDOS](https://github.com/Jaesparz/SBD-Project-CRUD-PEDIDOS)
-
-- **Descripción:** Uso de una base de datos hecha con Mysql creando una app que usa un CRUD para hacer pedidos.
-- **Tecnologías:** `Java','MySql'
-- **Estado:** Completado
-
+| **Nombre** | **Ocupación** |
+|------------|---------------|
+| Josue Alexander Esparza Villacís | 🎓 Estudiante Universitario |
 
 ---
 
-## Tecnologías
+## 📂 Proyectos  
 
-| Herramienta / Lenguaje | Nivel de experiencia |
-|------------------------|----------------------|
-| HTML / CSS             | Principiante             |
-| JavaScript             | Principiante             |
-| Python                 | Intermedio               |
-| Git / GitHub           | Intermedio               |
-| MySQL                  | Intermedio               |
-| Java                   | Avanzado                 |
+### 🔹 Proyecto 1: [Crypto-Exchange System](https://github.com/Jaesparz/BootcampProjectJE)  
+📝 **Descripción:**  
+Un simulador de una aplicación de intercambio de criptomonedas que replica la lógica de operaciones básicas.  
 
----
+🛠 **Tecnologías utilizadas:**  
+- `Java` → Uso de librerías estándar como **util** y **math** para cálculos numéricos.  
 
-## Intereses
-
-- Desarrollo web
-- Automatización con Python
-- Ciencia de datos
-- Videojuegos y tecnología interactiva
+📌 **Estado:** ✅ Completado  
 
 ---
 
-## Contacto
+### 🔹 Proyecto 2: [Discrete Paths](https://github.com/Jaesparz/DM-PROJECT)  
+📝 **Descripción:**  
+Implementación del algoritmo matemático del **camino más corto (Dijkstra)** con integración de un **mapa interactivo**. Incluye además un prototipo de videojuego llamado *“Juego del Tesoro”*.  
 
-Puedes contactarme a través de:
+🛠 **Tecnologías utilizadas:**  
+- `Java` → Desarrollo principal.  
+- **API REST OSRM** → Para obtener rutas óptimas en formato **GeoJSON**.  
+- Librerías `os` y `graphics` → Implementación gráfica y dinámica del prototipo de videojuego.  
 
+📌 **Estado:** ✅ Completado  
 
-- GitHub: [github.com/jaesparz](https://github.com/jaesparz)
-- Correo institucional: *[jaesparz@espol.edu.ec]*
+---
 
-> Este repositorio no incluye datos personales sensibles como dirección, correo privado o números de contacto.
+### 🔹 Proyecto 3: [CRUD-PEDIDOS](https://github.com/Jaesparz/SBD-Project-CRUD-PEDIDOS)  
+📝 **Descripción:**  
+Aplicación para la **gestión de pedidos** con operaciones CRUD (Crear, Leer, Actualizar, Borrar) conectada a una base de datos.  
 
+🛠 **Tecnologías utilizadas:**  
+- `Java` → Uso de la librería **Swing** para la interfaz gráfica (botones, cuadros, ventanas).  
+- `Java SQL (JDBC)` → Conexión y manejo de consultas SQL desde el código Java.  
+- `MySQL` → Sistema de gestión de base de datos para almacenar y administrar los pedidos.  
 
+📌 **Estado:** ✅ Completado  
+
+---
+
+## 🛠 Tecnologías  
+
+| Lenguaje / Herramienta | Nivel de experiencia | Usos principales |
+|-------------------------|----------------------|------------------|
+| 🌐 HTML / CSS           | 🟢 Principiante | Estructura y diseño básico de páginas web |
+| ⚡ JavaScript           | 🟢 Principiante | Interactividad básica en aplicaciones web |
+| 🐍 Python              | 🟡 Intermedio | Automatización de tareas y análisis de datos |
+| 🔗 Git / GitHub        | 🟡 Intermedio | Control de versiones y repositorios |
+| 🗄️ MySQL               | 🟡 Intermedio | Gestión de bases de datos relacionales |
+| ☕ Java                | 🔴 Avanzado | Desarrollo de aplicaciones completas (consola, GUI, conexión a BD con JDBC) |
+
+---
+
+## 🎯 Intereses  
+
+📌 Desarrollo web  
+📌 Automatización con Python  
+📌 Ciencia de datos  
+📌 Videojuegos y tecnología interactiva  
+
+---
+
+## 📬 Contacto  
+
+- 🐙 GitHub: [github.com/jaesparz](https://github.com/jaesparz)  
+- 📧 Correo institucional: *jaesparz@espol.edu.ec*  
+
+---
 
